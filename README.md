@@ -24,7 +24,7 @@ The University of Hong Kong · Peking University<br>
 
 Recovering both **surface shape** and **wavelength-dependent reflectance** usually requires dense multispectral images or separate acquisition stages. EventSpecPS combines an event camera with spectrally-angularly multiplexed illumination to recover both from a single event stream, enabling fast, low-bandwidth acquisition.
 
-This repository contains the **ECCV core Python decoder and rendering-configuration generator**. It does not bundle datasets, geometry assets, pretrained models, renderer binaries, or experiment-management scripts. The decoder optimizes each scene directly; no training dataset or pretrained network is required.
+This repository contains the **ECCV core Python decoder and rendering-configuration generator**.
 
 ## Method
 
