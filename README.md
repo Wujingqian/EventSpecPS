@@ -2,7 +2,7 @@
 
 # EventSpecPS: Photometric Stereo with Multispectral Reflectance Using an Event Camera
 
-**ECCV 2026**
+***ECCV 2026***
 
 Jingqian Wu · Bohan Yu · Jun Hoong Chan · Edmund Y. Lam · Boxin Shi
 
