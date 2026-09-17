@@ -2,7 +2,7 @@
 
 # EventSpecPS: Photometric Stereo with Multispectral Reflectance Using an Event Camera
 
-## European Conference on Computer Vision 2026
+## European Conference on Computer Vision (ECCV) 2026
 
 Jingqian Wu · Bohan Yu · Jun Hoong Chan · Edmund Y. Lam · Boxin Shi
 
