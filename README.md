@@ -2,11 +2,13 @@
 
 # EventSpecPS: Photometric Stereo with Multispectral Reflectance Using an Event Camera
 
-***ECCV 2026***
+## European Conference on Computer Vision 2026
 
 Jingqian Wu · Bohan Yu · Jun Hoong Chan · Edmund Y. Lam · Boxin Shi
 
 The University of Hong Kong · Peking University<br>
+
+### [Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6973.pdf) · [Poster](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6973.pdf) · [Video](https://www.youtube.com/watch?v=6T_Ly2uJmL8)
 
 **One event stream. Joint surface geometry and multispectral reflectance.**
 
