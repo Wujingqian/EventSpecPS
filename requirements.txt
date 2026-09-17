@@ -1,0 +1,8 @@
+# Python 3.11. Install a matching torch/torchvision pair for your CUDA runtime.
+torch==2.7.1
+torchvision==0.22.1
+numpy==1.26.4
+scipy==1.15.2
+opencv-python>=4.6,<4.12
+matplotlib==3.10.3
+tqdm==4.67.1
