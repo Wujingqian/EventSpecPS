@@ -1,8 +1,6 @@
 <div align="center">
 
-# EventSpecPS
-
-### Photometric Stereo with Multispectral Reflectance Using an Event Camera
+# EventSpecPS: Photometric Stereo with Multispectral Reflectance Using an Event Camera
 
 **ECCV 2026**
 
