@@ -6,10 +6,9 @@
 
 **ECCV 2026**
 
-Jingqian Wu\* · Bohan Yu\* · Jun Hoong Chan · Edmund Y. Lam · Boxin Shi
+Jingqian Wu · Bohan Yu · Jun Hoong Chan · Edmund Y. Lam · Boxin Shi
 
 The University of Hong Kong · Peking University<br>
-<sub>* Equal contribution</sub>
 
 **One event stream. Joint surface geometry and multispectral reflectance.**
 
