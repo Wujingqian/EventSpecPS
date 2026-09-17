@@ -1,0 +1,18 @@
+EventSpecPS is built upon EventPS by Bohan Yu:
+https://codeberg.org/ybh1998/EventPS
+
+Upstream EventPS notice:
+Copyright (c) 2023-2024 Bohan Yu. All rights reserved.
+
+The original EventSpecPS source distribution includes the following notice:
+Copyright (c) 2025 Bohan Yu. All rights reserved.
+EventSpecPS is free software licensed under the GNU Affero General Public
+License, version 3 or any later version.
+
+See LICENSE for the GNU Affero General Public License, version 3.
+LibreDR is an external dependency, not bundled with this repository:
+https://codeberg.org/ybh1998/LibreDR/
+
+The images in assets/ are unmodified, proportionally rasterized figures from
+the ECCV 2026 EventSpecPS manuscript: Fig. 1 (teaser), Fig. 2 (method), and
+Fig. 6 (real-world results). They are included to illustrate the paper.
